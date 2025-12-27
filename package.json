@@ -1,0 +1,11 @@
+{
+  "name": "mmap-js",
+  "version": "1.0.0",
+  "description": "🧠 Fast, lightweight, and elegant mmap for TypeScript, written in Rust.",
+  "main": "dist/index.js",
+  "scripts": {},
+  "keywords": ["mmap", "rust", "files", "io", "mmap.js", "mmap-js", "memory"],
+  "author": "Nehuén <github.com/nehu3n>",
+  "license": "MIT",
+  "packageManager": "pnpm@10.26.1"
+}
