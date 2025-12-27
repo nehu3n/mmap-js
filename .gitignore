@@ -1,2 +1,7 @@
 node_modules
 target
+dist
+index.js
+index.d.ts
+npm
+mmap-js*

@@ -2,8 +2,8 @@
   "name": "mmap-js",
   "version": "1.0.0",
   "description": "🧠 Fast, lightweight, and elegant mmap for TypeScript, written in Rust.",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "index.js",
+  "types": "index.d.ts",
   "repository": {
     "url": "git+ssh://git@github.com/nehu3n/mmap-js.git",
     "type": "git"
@@ -32,8 +32,8 @@
     "memory"
   ],
   "files": [
-    "dist/index.d.ts",
-    "dist/index.js",
+    "index.d.ts",
+    "index.js",
     "package.json",
     "readme.md"
   ],
